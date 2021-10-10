@@ -163,8 +163,8 @@ $(document).ready(function() {
   $.load("bongo", 0, 1);
   $.load("keyboard", 0, 9);
   $.load("marimba", 0, 9);
-  // $.loadSimple("meow");
-  $.loadSimple("Nekomix_meow");
+  $.loadSimple("meow");
+  // $.loadSimple("Nekomix_meow");
   $.loadSimple("cymbal");
   $.loadSimple("tambourine");
   $.loadSimple("cowbell");

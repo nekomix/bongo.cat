@@ -155,14 +155,16 @@ allLayers = [...new Set(allLayers)];
 $(document).ready(function() {
   lowLag.init({
     // https://bongo.cat/
-    'urlPrefix': 'https://bongo.cat/sounds/',
+    // 'urlPrefix': 'https://bongo.cat/sounds/',
+    'urlPrefix': 'https://nekomix.github.io/bongo.cat.nekomix/sounds/',
     // 'urlPrefix': '../sounds/',
     'debug': 'none'
   });
   $.load("bongo", 0, 1);
   $.load("keyboard", 0, 9);
   $.load("marimba", 0, 9);
-  $.loadSimple("meow");
+  // $.loadSimple("meow");
+  $.loadSimple("Nekomix_meow");
   $.loadSimple("cymbal");
   $.loadSimple("tambourine");
   $.loadSimple("cowbell");

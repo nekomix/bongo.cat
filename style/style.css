@@ -234,7 +234,9 @@ select#select-instrument option {
 }
 
 .cat>#head {
-  background-image: url(../images/catX.png);
+  /*background-image: url(../images/catX.png);*/
+  background-image: url(../images/catX4.png);
+  /*background-image: url(../images/catX3.png);*/
   /*background-image: url(../images/cat.png);*/
   z-index: 10
 }
@@ -252,7 +254,9 @@ select#select-instrument option {
 }
 
 .cat>#paw-right {
-  background-image: url(../images/paw-rightX.png);
+  background-image: url(../images/paw-rightX3.png);
+  /*background-image: url(../images/paw-rightX2.png);*/
+  /*background-image: url(../images/paw-rightX.png);*/
   /*background-image: url(../images/paw-right.png);*/
   z-index: 30
 }

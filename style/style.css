@@ -240,17 +240,20 @@ select#select-instrument option {
 }
 
 .cat>#mouth {
-  background-image: url(../images/mouth.png);
+  background-image: url(../images/mouthX.png);
+  /*background-image: url(../images/mouth.png);*/
   z-index: 20
 }
 
 .cat>#paw-left {
-  background-image: url(../images/paw-left.png);
+  background-image: url(../images/paw-leftX.png);
+  /*background-image: url(../images/paw-left.png);*/
   z-index: 30
 }
 
 .cat>#paw-right {
-  background-image: url(../images/paw-right.png);
+  background-image: url(../images/paw-rightX.png);
+  /*background-image: url(../images/paw-right.png);*/
   z-index: 30
 }
 

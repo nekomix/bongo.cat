@@ -234,7 +234,8 @@ select#select-instrument option {
 }
 
 .cat>#head {
-  background-image: url(../images/cat.png);
+  background-image: url(../images/catX.png);
+  /*background-image: url(../images/cat.png);*/
   z-index: 10
 }
 
